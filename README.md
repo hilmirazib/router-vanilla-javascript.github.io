@@ -1,5 +1,5 @@
 #Latihan
-ini adalah seri latihan saya tentang javascript router
+ini adalah seri latihan saya tentang javascript router dari https://github.com/mvneerven/vanillarouter
 
 ```js
 const router = new VanillaRouter({
